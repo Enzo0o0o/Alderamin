@@ -1,0 +1,50 @@
+name: AlderaminAPI
+version: 1.0
+author: GentilGentil
+main: fr.gentilgentil.plugin.Main
+commands:
+  voteGraine:
+    description: C'est la commande pour avoir la graine de vote (mp GentilGentil)
+    permission: votegraine.use
+  StuffDeGentilGentil:
+    description: C'est une commande qui permet d'avoir une armure ultra cheat uniquement pour la haute instance
+    permission: Stuff2GentilGentil.use
+  vote:
+    description: Site du serveur qui donne acces au vote
+    permission: vote.use
+  twitch:
+    description: Un broadcast pour les streamers
+    permission: twitch.use
+  duel:
+    description: Une commande de duel
+    permission: duel.use
+  tpduel:
+    description: Tp dans les tribunes de l'arene
+    permission: tpduel.use
+  tpshops:
+    description: commande pour se tp au shop
+    permission: tpshops.use
+  discord:
+    description: lien du serveur discord d'Aldéramin
+    permission: discord.use
+  AldeKit:
+    description: Kit du joueur Alderamin
+    permission: aldekit.use
+  ApolKit:
+    description: Kit du joueur Apollon
+    permission: apolkit.use
+  AresKit:
+    description: Kit du joueur Ares
+    permission: areskit.use
+  PoseKit:
+    description: Kit du joueur Poseidon
+    permission: posekit.use
+  ZeusKit:
+    description: Kit du joueur Zeus
+    permission: zeuskit.use
+  HadesKit:
+    description: Kit du joueur Hades
+    permission: hadeskit.usee
+  Grades:
+    description: Commande qui donne des infos sur les kits
+    permission: gradesinfos.use

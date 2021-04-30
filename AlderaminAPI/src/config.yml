@@ -1,0 +1,6 @@
+messages:
+  # Message envoyer lors d'un /vote
+  vote: "&aClique sur ce lien pour voter : &bhttps://alderamin.websr.fr/"
+
+  # Commande qui envoie le lien du discord
+  discord: "&aClique sur ce lien pour rejoindre notre serveur discord : &bhttps://discord.gg/VFhV9qh"
